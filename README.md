@@ -6,7 +6,8 @@ Following the 100 Days ML course by CampusX.
 ## Progress
 | Day | Topic |
 |-----|-------|
-| Day 01 | Tensors |
+| Day 01 | Basic Python |
+| Day 02 | Tensors |
 
 
 ## Resources

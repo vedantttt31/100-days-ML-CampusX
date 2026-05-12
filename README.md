@@ -9,6 +9,7 @@ Following the 100 Days ML course by CampusX.
 | Day 01 | Basic Python |
 | Day 02 | Tensors |
 | Day 03 | Working with CSV files |
+| Day 04 | Working with JSON files |
 
 
 ## Resources

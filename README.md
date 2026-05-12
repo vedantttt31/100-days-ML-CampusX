@@ -11,6 +11,7 @@ Following the 100 Days ML course by CampusX.
 | Day 03 | Working with CSV files |
 | Day 04 | Working with JSON files |
 | Day 05 | Fetching Data From an API |
+| Day 06 | Web Scrapping |
 
 
 ## Resources

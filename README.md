@@ -14,6 +14,7 @@ Following the 100 Days ML course by CampusX.
 | Day 06 | Web Scrapping |
 | Day 07 | Understanding Your Data |
 | Day 08 | EDA using Univariate Analysis |
+| Day 09 | Bivariate_analysis |
 
 
 ## Resources

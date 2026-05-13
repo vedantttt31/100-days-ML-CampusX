@@ -16,6 +16,7 @@ Following the 100 Days ML course by CampusX.
 | Day 08 | EDA using Univariate Analysis |
 | Day 09 | Bivariate_analysis |
 | Day 10 | Standardization |
+| Day 11 | Normalization |
 
 
 ## Resources

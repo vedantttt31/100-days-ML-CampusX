@@ -17,6 +17,7 @@ Following the 100 Days ML course by CampusX.
 | Day 09 | Bivariate_analysis |
 | Day 10 | Standardization |
 | Day 11 | Normalization |
+| Day 12 | One Hot Encoding |
 
 
 ## Resources
